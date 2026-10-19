@@ -1,0 +1,56 @@
+{
+  "id": "muestra",
+  "title": "Reto de escucha · Muestra",
+  "questions": [
+    {
+      "prompt": "La niña tiene un gato pequeño. El gato es blanco y duerme en una caja.",
+      "answer": "gato",
+      "choices": [
+        {"id":"gato", "label":"El gato", "emoji":"🐈"},
+        {"id":"perro", "label":"El perro", "emoji":"🐕"},
+        {"id":"pez", "label":"El pez", "emoji":"🐠"},
+        {"id":"conejo", "label":"El conejo", "emoji":"🐇"}
+      ]
+    },
+    {
+      "prompt": "En el desayuno, Mateo come una manzana roja y bebe leche.",
+      "answer": "manzana",
+      "choices": [
+        {"id":"pan", "label":"El pan", "emoji":"🥖"},
+        {"id":"manzana", "label":"La manzana", "emoji":"🍎"},
+        {"id":"queso", "label":"El queso", "emoji":"🧀"},
+        {"id":"platano", "label":"El plátano", "emoji":"🍌"}
+      ]
+    },
+    {
+      "prompt": "Afuera llueve mucho. Sofía abre su paraguas amarillo para caminar a casa.",
+      "answer": "paraguas",
+      "choices": [
+        {"id":"botas", "label":"Las botas", "emoji":"🥾"},
+        {"id":"sombrero", "label":"El sombrero", "emoji":"👒"},
+        {"id":"paraguas", "label":"El paraguas", "emoji":"☂️"},
+        {"id":"mochila", "label":"La mochila", "emoji":"🎒"}
+      ]
+    },
+    {
+      "prompt": "En el jardín, una mariposa azul se posa sobre una flor amarilla.",
+      "answer": "mariposa",
+      "choices": [
+        {"id":"abeja", "label":"La abeja", "emoji":"🐝"},
+        {"id":"mariposa", "label":"La mariposa", "emoji":"🦋"},
+        {"id":"pajaro", "label":"El pájaro", "emoji":"🐦"},
+        {"id":"rana", "label":"La rana", "emoji":"🐸"}
+      ]
+    },
+    {
+      "prompt": "El abuelo prepara una sopa caliente de verduras en una olla grande.",
+      "answer": "sopa",
+      "choices": [
+        {"id":"ensalada", "label":"La ensalada", "emoji":"🥗"},
+        {"id":"helado", "label":"El helado", "emoji":"🍦"},
+        {"id":"pizza", "label":"La pizza", "emoji":"🍕"},
+        {"id":"sopa", "label":"La sopa", "emoji":"🍲"}
+      ]
+    }
+  ]
+}
