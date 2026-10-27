@@ -1,0 +1,31 @@
+{
+  "title": "PRUEBA 1 — Mi mundo",
+  "format": "HABLAR practice",
+  "questions": [
+    {
+      "topic": "Mi familia",
+      "en": "Think about your family. Who is in your family? What are they like? What do you like to do together?\n\nBONUS: Tell me about a special time with your family.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en tu familia. ¿Quiénes forman parte de tu familia? ¿Cómo son? ¿Qué te gusta hacer con ellos?\n\nEXTRA: Cuéntame sobre un momento especial con tu familia.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "Mi comida favorita",
+      "en": "Think about food you enjoy. What is your favorite food? What does it taste like? When do you like to eat it?\n\nBONUS: Tell me how you help make or serve this food.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en la comida que te gusta. ¿Cuál es tu comida favorita? ¿A qué sabe? ¿Cuándo te gusta comerla?\n\nEXTRA: Cuéntame cómo ayudas a preparar o servir esta comida.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "Mis amigos",
+      "en": "Think about your friends. What are your friends like? What do you enjoy doing together? Where do you like to spend time with them?\n\nBONUS: Tell me about a fun time you had with a friend.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en tus amigos. ¿Cómo son tus amigos? ¿Qué les gusta hacer juntos? ¿Dónde les gusta pasar tiempo?\n\nEXTRA: Cuéntame sobre un momento divertido que pasaste con un amigo.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "Mi habitación",
+      "en": "Think about your bedroom. What is in your room? What colors do you see? What do you like to do there?\n\nBONUS: Tell me about something special in your room.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en tu habitación. ¿Qué hay en tu cuarto? ¿Qué colores ves? ¿Qué te gusta hacer allí?\n\nEXTRA: Cuéntame sobre algo especial que tienes en tu cuarto.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "Mi animal favorito",
+      "en": "Think about an animal you like. What is your favorite animal? What does it look like? What does it like to do or eat?\n\nBONUS: Tell me where this animal lives.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en un animal que te gusta. ¿Cuál es tu animal favorito? ¿Cómo es? ¿Qué le gusta hacer o comer?\n\nEXTRA: Cuéntame dónde vive este animal.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    }
+  ]
+}
