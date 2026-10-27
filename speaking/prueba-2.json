@@ -1,0 +1,31 @@
+{
+  "title": "PRUEBA 2 — Mi colegio",
+  "format": "HABLAR practice",
+  "questions": [
+    {
+      "topic": "Mi clase",
+      "en": "Think about your classroom. What does your classroom look like? What do you do during the school day? What is your favorite activity?\n\nBONUS: Tell me something you learned this week.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en tu clase. ¿Cómo es tu clase? ¿Qué haces durante el día? ¿Cuál es tu actividad favorita?\n\nEXTRA: Cuéntame algo que hayas aprendido esta semana.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "El recreo",
+      "en": "Think about recess at school. Where do you play? What games or activities do you enjoy? Who do you like to play with?\n\nBONUS: Tell me what you do when it is too rainy to play outside.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en el recreo en la escuela. ¿Dónde juegas? ¿Qué juegos o actividades te gustan? ¿Con quién te gusta jugar?\n\nEXTRA: Cuéntame qué haces cuando llueve demasiado para jugar afuera.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "Mi asignatura favorita",
+      "en": "Think about the subjects you study at school. What is your favorite subject? What do you do in that class? What do you like about it?\n\nBONUS: Tell me something you would like to learn in this subject.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en las materias que estudias en la escuela. ¿Cuál es tu materia favorita? ¿Qué haces en esa clase? ¿Qué te gusta de ella?\n\nEXTRA: Cuéntame algo que te gustaría aprender en esta materia.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "Mis compañeros",
+      "en": "Think about the students in your class. What are your classmates like? What do you do together? How do you help each other?\n\nBONUS: Tell me about a kind thing a classmate did.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en los estudiantes de tu clase. ¿Cómo son tus compañeros? ¿Qué hacen juntos? ¿Cómo se ayudan?\n\nEXTRA: Cuéntame sobre algo amable que hizo un compañero.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    },
+    {
+      "topic": "Un día especial en el colegio",
+      "en": "Think about a special day at school. What happened that day? What did you see or do? Who was there with you?\n\nBONUS: Tell me why you remember this day.\n\nAnswer using complete sentences and give as many details as you can. Remember to speak in Spanish.",
+      "es": "Piensa en un día especial en la escuela. ¿Qué pasó ese día? ¿Qué viste o hiciste? ¿Quién estuvo contigo?\n\nEXTRA: Cuéntame por qué recuerdas este día.\n\nResponde con oraciones completas y da todos los detalles que puedas. Recuerda hablar en español."
+    }
+  ]
+}
