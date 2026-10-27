@@ -27,7 +27,7 @@ function clock(s){return String(Math.floor(s/60)).padStart(2,'0')+':'+String(s%6
 function stop(){if(!recording)return;recording=false;clearInterval(interval);interval=null;done[index]=true;render()}
 $('#record').onclick=()=>{if(recording){stop();return}if(done[index]){done[index]=false;elapsed=0}recording=true;elapsed=0;interval=setInterval(()=>{elapsed++;$('#timer').textContent=clock(elapsed)},1000);render()};
 $('#next').onclick=()=>{if(!done[index])return;if(index<4){index++;elapsed=0;render()}else{stop();show('done')}};
-$('#backList').onclick=()=>{if(recording&&!confirm('La práctica está en curso. ¿Quieres detenerla y volver a la lista?'))return;if(recording)stop();show('picker')};
-$('#mainHome').onclick=$('#toHome').onclick=()=>{if(recording&&!confirm('La práctica está en curso. ¿Quieres detenerla y volver al inicio?'))return;if(recording)stop();location.href='index.html'};
+$('#backList').onclick=()=>{const hasProgress=recording||done.some(Boolean)||index>0;if(hasProgress&&!confirm('¿Quieres volver a la lista? Se perderá el progreso de esta práctica.'))return;if(recording)stop();show('picker')};
+$('#mainHome').onclick=$('#toHome').onclick=()=>{const hasProgress=recording||done.some(Boolean)||index>0;if(hasProgress&&!confirm('¿Quieres volver al inicio? Se perderá el progreso de esta práctica.'))return;if(recording)stop();location.href='index.html'};
 $('#toTests').onclick=()=>show('picker');load();
 </script></body></html>
