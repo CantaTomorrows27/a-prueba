@@ -18,5 +18,9 @@
   {
     "title": "PRUEBA 4",
     "file": "test-04/test.json"
+  },
+  {
+    "title": "PRUEBA 5",
+    "file": "test-05/test.json"
   }
 ]
